@@ -34,4 +34,4 @@ The submitted models, for each task, will be evaluated on **error detection rate
 
 We will rank models based on the overall F1-score.
 
-For more details about the challenge, dataset, and baseline, please refer to the manuscript. 
+### For more details about the challenge, dataset, and baseline, please refer to the manuscript. 
